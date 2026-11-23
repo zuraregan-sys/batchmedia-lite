@@ -11,6 +11,10 @@ A lightweight, offline batch image optimizer for Windows. Drop in your images, p
 <a href="https://github.com/zuraregan-sys/batchmedia-lite/releases/latest">
   <img src="https://img.shields.io/badge/Download_for_Windows-6EE7B7?style=for-the-badge&logo=windows&logoColor=071B14" alt="Download BatchMedia Lite for Windows" />
 </a>
+&nbsp;
+<a href="https://zuraregan.gumroad.com/l/BatchMediaLite">
+  <img src="https://img.shields.io/badge/Buy_on_Gumroad-FF90E8?style=for-the-badge&logoColor=000000" alt="Buy BatchMedia Lite on Gumroad" />
+</a>
 
 <br />
 
